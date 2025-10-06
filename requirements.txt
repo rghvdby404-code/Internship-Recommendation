@@ -1,8 +1,10 @@
 streamlit
-jobspy
 pandas
 numpy
 plotly
 requests
 beautifulsoup4
 lxml
+scikit-learn
+python-dateutil
+git+https://github.com/jobspy-ai/jobspy.git#egg=jobspy
